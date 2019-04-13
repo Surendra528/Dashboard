@@ -1,0 +1,98 @@
+.App {
+    text-align: center;
+    
+  }
+  
+  #Dropdown{
+    float: left;
+  }
+
+  .App-header {
+    background-color:cornsilk;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  #nave{
+  
+    background-color: aqua
+  
+  }
+  
+  #badge{
+    text-align:start;
+    margin-top: -500px;
+  }
+  .user {
+    float: right;
+    text-align: right;
+    color: orange
+    
+  }
+
+  .revenue{
+      margin: 50px;
+      color : rgb(190, 151, 151)
+  }
+
+  .ProductViews{
+      margin-top: 1000px;
+  }
+  .App-link {
+    color: #61dafb;
+  }
+
+
+  
+  .In1 , .In2, .In3,.In4{
+    border: 1px solid;
+   min-width: 25%;
+    min-height:200px;
+    color: aqua;
+  ;
+    
+    
+  }
+  
+  .IM1{
+    border: 1px solid;
+   min-width: 40%;
+   min-height:200px;
+    color: aqua
+    
+  }
+  .IM2{
+    border: 1px solid;
+   min-width: 30%;
+   min-height:200px;
+    color: aqua
+    
+  }
+  .IM3{
+    border: 1px solid;
+   min-width: 30%;
+   min-height:200px;
+    color: aqua
+    
+  }
+  
+  .IL1{
+    border: 1px solid;
+   min-width: 50%;
+   min-height:300px;
+    color: aqua
+    
+  }
+  .IL2{
+    border: 1px solid;
+   min-width: 50%;
+   min-height:300px;
+    color: aqua
+    
+  }
+ 
